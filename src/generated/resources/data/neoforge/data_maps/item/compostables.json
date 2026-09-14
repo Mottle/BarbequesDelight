@@ -1,0 +1,76 @@
+{
+  "values": {
+    "barbequesdelight:bibimbap": {
+      "chance": 1.0
+    },
+    "barbequesdelight:burnt_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:grilled_beef_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_chicken_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_cod_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_lamb_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_mushroom_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_pork_sausage_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_potato_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_rabbit_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_salmon_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:grilled_vegetable_skewer": {
+      "chance": 0.5
+    },
+    "barbequesdelight:kebab_sandwich": {
+      "chance": 0.75
+    },
+    "barbequesdelight:kebab_wrap": {
+      "chance": 0.5
+    },
+    "barbequesdelight:raw_beef_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_chicken_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_cod_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_lamb_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_mushroom_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_pork_sausage_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_potato_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_rabbit_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_salmon_skewer": {
+      "chance": 0.25
+    },
+    "barbequesdelight:raw_vegetable_skewer": {
+      "chance": 0.25
+    }
+  }
+}

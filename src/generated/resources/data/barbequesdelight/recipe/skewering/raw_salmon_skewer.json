@@ -1,0 +1,12 @@
+{
+  "type": "barbequesdelight:skewering",
+  "ingredient": "#c:foods/raw_salmon",
+  "ingredientCount": 2,
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:raw_salmon_skewer"
+  },
+  "side": "#c:foods/tomato",
+  "sideCount": 2,
+  "tool": "minecraft:stick"
+}

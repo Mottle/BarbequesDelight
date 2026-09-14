@@ -1,0 +1,15 @@
+{
+  "type": "barbequesdelight:combine",
+  "category": "misc",
+  "ingredients": [
+    "#c:foods/bread",
+    "#barbequesdelight:grilled_skewers",
+    "#barbequesdelight:grilled_skewers",
+    "#c:foods/cabbage",
+    "#c:foods/onion"
+  ],
+  "result": {
+    "count": 1,
+    "id": "barbequesdelight:kebab_sandwich"
+  }
+}

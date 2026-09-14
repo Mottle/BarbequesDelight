@@ -1,0 +1,9 @@
+{
+  "type": "barbequesdelight:grilling",
+  "barbecuingTime": 160,
+  "ingredient": "barbequesdelight:raw_vegetable_skewer",
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:grilled_vegetable_skewer"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "barbequesdelight:skewering",
+  "ingredient": "#c:foods/raw_pork",
+  "ingredientCount": 4,
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:raw_pork_sausage_skewer"
+  },
+  "sideCount": 0,
+  "tool": "minecraft:stick"
+}

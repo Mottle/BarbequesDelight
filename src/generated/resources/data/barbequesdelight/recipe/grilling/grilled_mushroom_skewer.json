@@ -1,0 +1,9 @@
+{
+  "type": "barbequesdelight:grilling",
+  "barbecuingTime": 240,
+  "ingredient": "barbequesdelight:raw_mushroom_skewer",
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:grilled_mushroom_skewer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "barbequesdelight:grilling",
+  "barbecuingTime": 320,
+  "ingredient": "barbequesdelight:raw_lamb_skewer",
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:grilled_lamb_skewer"
+  }
+}

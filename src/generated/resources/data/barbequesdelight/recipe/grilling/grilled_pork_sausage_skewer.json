@@ -1,0 +1,9 @@
+{
+  "type": "barbequesdelight:grilling",
+  "barbecuingTime": 360,
+  "ingredient": "barbequesdelight:raw_pork_sausage_skewer",
+  "output": {
+    "count": 1,
+    "id": "barbequesdelight:grilled_pork_sausage_skewer"
+  }
+}
